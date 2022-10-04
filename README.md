@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://opgc.me/#/users/seaking7" target="_blank"><img src="https://api.opgc.me/githubs/users/seaking7/tag/?theme=basic" /></a>
 
 <!--
 **seaking7/seaking7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
