@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="https://opgc.me/#/users/seaking7" target="_blank"><img src="https://api.opgc.me/githubs/users/seaking7/tag/?theme=basic" /></a>
 
 <!--
 ![seaking7's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaking7&show_icons=true)
